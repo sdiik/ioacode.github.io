@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["9FW5BSB866.com.kreditplus.kpm.dev"],
+        "paths": ["/path/*"]
+      }
+    ]
+  }
+}
